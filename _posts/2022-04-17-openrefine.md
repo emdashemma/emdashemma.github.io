@@ -12,11 +12,11 @@ OpenRefine is the perfect tool for this kind of data manipulation: the logic beh
 
 From the accession number side, the most stripped-down string that captured the semantic information would look like this:
 
-<img src="https://raw.githubusercontent.com/emdashemma/emdashemma.github.io/blob/main/uploads/accession_trim.png" width="500">
+<img src="https://raw.githubusercontent.com/emdashemma/emdashemma.github.io/main/uploads/accession_trim.png" width="500">
 
 Then, simple transformations of "Filename" in the other project, aiming toward the same thing (chomp the end off, remove punctuation):
 
-<img src="https://raw.githubusercontent.com/emdashemma/emdashemma.github.io/blob/main/uploads/filename_transformations.png" width="500">
+<img src="https://raw.githubusercontent.com/emdashemma/emdashemma.github.io/main/uploads/filename_transformations.png" width="500">
 
 But then... a bunch of the filenames were more like **001235a.wav**. I had learned from handling the original discs—which were labeled with \*different\* accession numbers, no hyphens, whatever—that the original accession, in 1978, had originally been labeled with leading zeros rather than years. So the "modern" accession number **omc-1978-xx-xx** actually refers to a disc in a sleeve with a label "00xxxx". 
 
@@ -24,7 +24,7 @@ There was some padding nonsense as well. I faceted by filename string length and
 
 The sweet, sweet moment of truth: 
 
-<img src="https://raw.githubusercontent.com/emdashemma/emdashemma.github.io/blob/main/uploads/cell_cross.png" width="500">
+<img src="https://raw.githubusercontent.com/emdashemma/emdashemma.github.io/main/uploads/cell_cross.png" width="500">
 
 After reviewing the filenames that got left behind, I reiterated some of the transformations to catch other weirdnesses—for example, the filenames didn't pad the final unit the way the accession numbers did, so I manually added in some penultimate zeros, and got a few hundred more matches—and tada! after about 90 minutes of fiddling, I had 1037 matches. 
 
