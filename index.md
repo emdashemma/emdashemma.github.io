@@ -1,4 +1,4 @@
-I'm a second-year MLIS student at the University of Washington.
+I'm Emma, a second-year MLIS student at the University of Washington.
 The goal here is to document a few projects in progress right now,
 including (1) cataloging Mozart shellac 78s for my capstone,
 (2) developing an optical media imaging workflow for an internship,
