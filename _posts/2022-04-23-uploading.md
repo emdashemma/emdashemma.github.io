@@ -51,4 +51,4 @@ Then I just pasted that text file into the "Description" field of Internet Archi
 
 <img src='https://raw.githubusercontent.com/emdashemma/emdashemma.github.io/main/uploads/omc_screenshot_3.png'>
 
-And look! They're out there on the real Internet! Go listen to some Mozart: https://archive.org/details/omc-1983-12-01
+And look! They're out there on the real Internet! [Go listen to some Mozart.](https://archive.org/details/omc-1983-12-01)
