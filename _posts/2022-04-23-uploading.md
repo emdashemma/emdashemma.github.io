@@ -4,7 +4,7 @@ Having spoken to the appropriate library people and gotten the logins & green li
 
 First, I picked a record in my project spreadsheet, "OMC Cataloging and Digitization," and used the filename-to-accession-number mapping to search Google Drive for the filenames and download the files. Then I listened to the file to make sure it was actually a match. (They all were! But this step was still important because often Sides A and B were cross-named in the files vs. the cataloging, which isn't surprising given that the early discs don't label themselves A and B: if the matrix/catalog numbers aren't sequential, there's no real indication of which should be called Side A.)
 
-<img src='https://raw.githubusercontent.com/emdashemma/emdashemma.github.io/main/uploads/omc_screenshot_1' width="400" align="left">
+<img src='https://raw.githubusercontent.com/emdashemma/emdashemma.github.io/main/uploads/omc_screenshot_1.png' width="500" align="left">
 
 After months in the extremo controlled MARC/RDA/ISBD metadata environment of bibliographic cataloging, here was the Internet Archive with ... no rules at all! I floundered a bit and then came up with what I think is a tolerably complete, semi-structured metadata format for the public access point to these recordings. The UW Libraries' catalog, Primo, lets you download a CSV of the bibliographic record, so, with my hot-of-the-press amateur Python skills, I wrote a little script to take that `file.csv` and restructure it in plaintext with the desired metadata fields prefaced by their element names:
 
@@ -45,10 +45,10 @@ with open(f"{oclc}.txt", "w") as f:
 
 So that's what is happening here, with the output of `mapping.py` the OCLC-number-named txt file at the right:
 
-<img src='https://raw.githubusercontent.com/emdashemma/emdashemma.github.io/main/uploads/omc_screenshot_2' width="400" align="left">
+<img src='https://raw.githubusercontent.com/emdashemma/emdashemma.github.io/main/uploads/omc_screenshot_2.png' width="500" align="left">
 
 Then I just pasted that text file into the "Description" field of Internet Archive, using my presumptuously-named `data-dictionary.txt` notes to fill the other fields consistently:
 
-<img src='https://raw.githubusercontent.com/emdashemma/emdashemma.github.io/main/uploads/omc_screenshot_3' width="400" align="left">
+<img src='https://raw.githubusercontent.com/emdashemma/emdashemma.github.io/main/uploads/omc_screenshot_3.png' width="500" align="left">
 
 And look! They're out there on the real Internet! https://archive.org/details/omc-1983-12-01
