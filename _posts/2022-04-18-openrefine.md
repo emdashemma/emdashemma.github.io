@@ -1,3 +1,9 @@
+---
+layout: post
+title: "The magic of OpenRefine"
+description: "Disambiguating Mozart WAV files with OpenRefine"
+tags: capstone
+---
 ## The magic of OpenRefine
 
 In the course of cataloging the 78rpm recordings for my Capstone project—working toward vendor digitization with a grant that didn't come through—I learned that the Music Library had a "mystery hard drive" with a couple of folders, "Mozart 10" and "Mozart 12", among these large sets of more-or-less unidentified files. These had not been considered viable access copies for the collection because they were origin- and nomenclature-unknown. 
