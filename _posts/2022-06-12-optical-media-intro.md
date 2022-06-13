@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Optical media workflow: intro"
+description: "Overview of the internship project to create an optical media workflow"
+tags: independent-study
+---
 ## Optical media workflow: intro 💿
 
 This and upcoming posts are adapted from my final project presentation for the [2021-22 Dirks Preservation Internship](https://www.lib.washington.edu/preservation/preservation-services/dirks-intern) at the UW Libraries. My project was to research and make recommendations for a unified workflow for imaging optical media formats from Special Collections, which entailed first learning how CDs work, then researching available tools and workflows at other institutions to determine processing and metadata specifications for batch-creating disk images of various optical media formats, ensuring reasonable levels of quality control and consistent technical metadata.
