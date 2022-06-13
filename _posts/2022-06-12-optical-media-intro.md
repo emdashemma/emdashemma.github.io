@@ -2,7 +2,7 @@
 layout: post
 title: "Optical media workflow: intro"
 description: "Overview of the internship project to create an optical media workflow"
-tags: independent-study
+tags: optical-media
 ---
 ## Optical media workflow: intro 💿
 
