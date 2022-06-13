@@ -1,3 +1,9 @@
+---
+layout: post
+title: "A whole lil workflow in one screenshot"
+description: "Uploading and describing Mozart WAVs on Internet Archive"
+tags: capstone
+---
 ## A whole lil workflow in one screenshot
 
 Having spoken to the appropriate library people and gotten the logins & green lights, I was all set to begin uploading the [newly-disambiguated Mozart recordings](https://emdashemma.github.io/2022/04/18/openrefine.html) to the Internet Archive. (Once the files were hosted somewhere publicly, they could be cataloged as digital resources and linked to the catalog records for the physical items, creating the level of access originally imagined by the digitization grant, despite not getting the money—huzzah!). Here's the whole process in one sweet triply-annotated screenshot.
