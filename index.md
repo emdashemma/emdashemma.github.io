@@ -1,4 +1,4 @@
-<img src='https://raw.githubusercontent.com/emdashemma/emdashemma.github.io/main/uploads/emma.jpeg' width="200" align="left">
+<img src='https://raw.githubusercontent.com/emdashemma/emdashemma.github.io/main/uploads/emma.jpeg' width="200" align="left" style="padding: 8px">
 I'm Emma. I just finished my MLIS at the University of Washington and relocated (returned!) to NYC to start a job at the New York Public Library. I have a background in performing arts administration, a professional bent for digital preservation and metadata, and side loves for baroque music + baking. I'm trying to practice my \~casual professional discourse\~ by writing up some recent/current projects, including:
 <br>(1) cataloging Mozart shellac 78s for my capstone,
 <br>(2) developing an optical media imaging workflow for an internship,
